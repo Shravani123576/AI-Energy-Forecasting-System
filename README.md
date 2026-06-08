@@ -345,7 +345,8 @@ The model successfully learns:
 Add dashboard screenshot here.
 
 ```markdown id="read014"
-![Dashboard](images/dashboard_ui.png)
+<img width="1576" height="881" alt="image" src="https://github.com/user-attachments/assets/bfef8e08-88b0-4808-b4ff-36f0d410832e" />
+
 ```
 
 ---
@@ -353,7 +354,8 @@ Add dashboard screenshot here.
 ## Energy Consumption Trend
 
 ```markdown id="read015"
-![Energy Trend](images/energy_trend.png)
+<img width="1800" height="600" alt="image" src="https://github.com/user-attachments/assets/34e56837-a854-4747-875b-ae957f79368d" />
+
 ```
 
 ---
@@ -361,8 +363,8 @@ Add dashboard screenshot here.
 ## Actual vs Predicted Graph
 
 ```markdown id="read016"
-![Forecast Graph](images/actual_vs_predicted.png)
-```
+<img width="1800" height="600" alt="image" src="https://github.com/user-attachments/assets/573e262e-4bc5-4662-9f95-17641bc04e8a" />
+
 
 ---
 
