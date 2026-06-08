@@ -239,7 +239,7 @@ The project also includes a Flask API backend that:
 ## Clone Repository
 
 ```bash id="read004"
-git clone https://github.com/your-username/AI-Energy-Forecasting-System.git
+git clone https://github.com/Shravani123576/AI-Energy-Forecasting-System.git
 ```
 
 ---
